@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="de457805-c989-4126-8261-0d7a8a3f014c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../Project 6 (php sintak)\exportToHTML" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="XHTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="sortByName" value="true" />
+  </component>
+  <component name="ProjectId" id="1jEtHiR7cBekjuw8XGsJ3U5xRYy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="XHTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../2. Tugas Kampus/Semester 3/P TOTOK/Project 6 (php sintak)/index.html" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.stylelint" value="node" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs.cucumber.cucumber_node_package_dir" value="" />
+    <property name="nodejs.jest.jest_package" value="" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="myFilePath" value="" />
+      <option name="myNameFilter" value="" />
+      <option name="cucumberJsArguments" value="" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de457805-c989-4126-8261-0d7a8a3f014c" name="Default Changelist" comment="" />
+      <created>1603380993082</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603380993082</updated>
+      <workItem from="1603380996294" duration="671000" />
+      <workItem from="1603418175606" duration="8000" />
+      <workItem from="1603418444701" duration="6213000" />
+      <workItem from="1603450179565" duration="2408000" />
+      <workItem from="1603452816905" duration="33000" />
+      <workItem from="1603453199014" duration="2000" />
+      <workItem from="1603455133795" duration="38000" />
+      <workItem from="1603455221220" duration="272000" />
+      <workItem from="1603455541563" duration="21000" />
+      <workItem from="1603455610955" duration="181000" />
+      <workItem from="1603457737764" duration="1184000" />
+      <workItem from="1603459436137" duration="1217000" />
+      <workItem from="1603460714974" duration="6635000" />
+      <workItem from="1603547862134" duration="4393000" />
+      <workItem from="1603611274876" duration="5001000" />
+      <workItem from="1603633064717" duration="882000" />
+      <workItem from="1603639862998" duration="729000" />
+      <workItem from="1603644665469" duration="6305000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.php" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="616" y="50" key="#Inspections" timestamp="1603451635179">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="616" y="50" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1603451635179" />
+    <state x="752" y="261" key="#Stylelint" timestamp="1603451442165">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="752" y="261" key="#Stylelint/0.0.1366.728@0.0.1366.728" timestamp="1603451442165" />
+    <state x="272" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603450797026">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="272" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1603450797026" />
+    <state x="813" y="223" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603632370771">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="813" y="223" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1603632370771" />
+    <state x="738" y="114" key="FileChooserDialogImpl" timestamp="1603650428831">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="738" y="114" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1603650428831" />
+    <state x="-41" y="17" key="SettingsEditor" timestamp="1603457811881">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="-41" y="17" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1603457811881" />
+    <state x="654" y="0" width="667" height="685" key="dock-window-1" timestamp="1603428351747">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="654" y="0" width="667" height="685" key="dock-window-1/0.0.1366.728@0.0.1366.728" timestamp="1603428351746" />
+    <state x="675" y="164" key="run.anything.popup" timestamp="1603450810117">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="675" y="164" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1603450810117" />
+    <state x="677" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1603548246886">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="677" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1603548246886" />
+  </component>
+</project>
